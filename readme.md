@@ -29,3 +29,12 @@ ffmpeg -v 5 -y -i m4a-sample.m4a -acodec libmp3lame -ac 2 -ab 192k mp3-bounce.mp
 ```
 ffmpeg -i input.mp3 -filter:a "volume=10" output.mp3
 ```
+
+# Website
+
+* The website files are put on github in the docs folder
+* The website is located here: 
+
+https://enomisiverson.github.io/ville-ecolo/
+
+
